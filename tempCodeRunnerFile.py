@@ -1,0 +1,6 @@
+    print('name of employee:',get_fake_name()) 
+    print('employe id:',get_fake_number()) 
+    print(get_fake_city()) 
+    print(get_fake_mbl()) 
+    print('employee salary: {:.2f}'.format(get_fake_salary())) 
+    print(get_fake_designation()) 
